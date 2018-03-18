@@ -6,7 +6,7 @@
 package team7api;
 
 /**
- *
+ *  Main Method
  * @author zabuz
  */
 public class Team7API {
